@@ -1,0 +1,16 @@
+# https://github.com/rany2/edge-tts/tree/master (edge-TTS)
+edge-tts
+
+# set time
+pytz
+
+# fastapi
+numpy==1.23.1
+dataclasses>=0.6
+peft>=0.6.2
+tqdm>=4.62.1
+uvicorn>=0.21.1
+fastapi>=0.95.1
+starlette>=0.26.1
+schedule
+
