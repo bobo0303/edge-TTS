@@ -84,3 +84,6 @@ It is possible to use the `edge-tts` module directly from Python. For a list of 
 * https://github.com/rany2/edge-tts/tree/master/examples
 * https://github.com/rany2/edge-tts/blob/master/src/edge_tts/util.py
 * https://github.com/hasscc/hass-edge-tts/blob/main/custom_components/edge_tts/tts.py
+
+## Reference
+* https://github.com/rany2/edge-tts/tree/master 
